@@ -1,8 +1,6 @@
-![Project Logo][project_logo]
 
----
 
-<h4 align="center">Solutions for <a href="" target="_blank">SQL</a> Challenges hosted on <a href="[https://datalemur.com?referralCode=4jqfgdUm](https://datalemur.com?referralCode=4jqfgdUm)" target="_blank">DataLemur</a> </h4>
+<h4 align="center">Solutions for <a href="" target="_blank">SQL</a> Challenges hosted on <a href="https://datalemur.com?referralCode=4jqfgdUm" target="_blank">DataLemur</a> </h4>
 
 
 ## Overview
