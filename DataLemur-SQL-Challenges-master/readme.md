@@ -5,7 +5,7 @@
 
 ## Overview
 
-This repository contains solution for the SQL challenges posted on [DataLemur][website_link] website. The solution queries are executed on the integrated PostgreSQL environment on the same website.
+This repository contains solution for the SQL challenges posted on DataLemur. The solution queries are executed on the integrated PostgreSQL environment on the same website.
 
 The repository directory structure is as follows:
 
